@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/polinagusakova/Product-preview-card)
-- Live Site URL: [GitHub pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub pages](https://polinagusakova.github.io/Product-preview-card/)
 
 ## My process
 
